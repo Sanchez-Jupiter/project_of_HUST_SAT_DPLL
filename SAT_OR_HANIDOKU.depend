@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1692587623 source:c:\users\zpd\desktop\sat_or_hanidoku\func.cpp
+	"def.h"
+
+1692586772 c:\users\zpd\desktop\sat_or_hanidoku\def.h
+	<cstdio>
+	<malloc.h>
+
+1692586772 source:c:\users\zpd\desktop\sat_or_hanidoku\main.cpp
+	"def.h"
+
